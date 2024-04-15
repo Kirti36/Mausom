@@ -2,7 +2,10 @@
 
 ## Screenshots
 <p>
-<img src="" height="500" >
+<img src="https://github.com/Kirti36/Mausom/blob/master/ss/gandhinagar%20(1).jpeg" height="400" >
+<img src="https://github.com/Kirti36/Mausom/blob/master/ss/gudgaon.jpeg" height="400" >
+<img src="https://github.com/Kirti36/Mausom/blob/master/ss/splash.jpeg" height="400" >
+<img src="https://github.com/Kirti36/Mausom/blob/master/ss/argentina.jpeg" height="400" >
 
 
 
