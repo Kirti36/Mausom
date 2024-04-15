@@ -1,4 +1,4 @@
-# Maousam - your weather forcaster
+# Mausom - your weather forcaster
 
 ## Screenshots
 <p>
